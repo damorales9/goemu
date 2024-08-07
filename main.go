@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	os.Exit(emu_run(len(os.Args), os.Args))
+	emuRun(os.Args)
 }

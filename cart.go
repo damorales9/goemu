@@ -1,4 +1,4 @@
-package lib
+package goemu
 
 import (
 	"fmt"
